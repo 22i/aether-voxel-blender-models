@@ -1,0 +1,19 @@
+/time set day
+
+/weather clear
+
+/setblock ~ ~ ~ end_portal
+
+/setblock ~ ~ ~ aether_portal
+
+/summon space and TAB button to scroll through mob options
+
+/summon aether_legacy:aechor_plant
+
+/summon aether_legacy:aerbunny
+
+/summon aether_legacy:aerwhale
+
+/summon aether_legacy:cockatrice
+
+/summon aether_legacy:enchanted_dart

@@ -1,0 +1,7 @@
+use amc and minecraft-voxel-blender-models sheep model
+
+the only difference is the texture
+
+https://github.com/22i/minecraft-voxel-blender-models
+
+https://github.com/22i/amc
