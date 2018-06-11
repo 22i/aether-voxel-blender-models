@@ -29,3 +29,63 @@ first write /summon  then press TAB multiple times to scroll between possible mo
 /summon aether_legacy:enchanted_dart
 
 /summon aether_legacy:enchanted_dart ~ ~ ~ {NoAI:1}
+
+/summon aether_legacy:fire_ball
+
+/summon aether_legacy:fire_ball ~ ~ ~ {NoAI:1}
+
+/summon aether_legacy:fire_minion
+
+/summon aether_legacy:fire_minion ~ ~ ~ {NoAI:1}
+
+/summon aether_legacy:floating_block ~ ~ ~ {NoAI:1}
+
+/summon aether_legacy:flying_cow ~ ~ ~ {NoAI:1}
+
+/summon aether_legacy:golden_dart ~ ~ ~ {NoAI:1}
+
+/summon aether_legacy:hammer_projectile ~ ~ ~ {NoAI:1}
+
+/summon aether_legacy:ice_ball ~ ~ ~ {NoAI:1}
+
+/summon aether_legacy:lightning_knife ~ ~ ~ {NoAI:1}
+
+/summon aether_legacy:mimic ~ ~ ~ {NoAI:1}
+
+/summon aether_legacy:mini_cloud ~ ~ ~ {NoAI:1}
+
+/summon aether_legacy:moa ~ ~ ~ {NoAI:1}
+
+/summon aether_legacy:parachute ~ ~ ~ {NoAI:1}
+
+/summon aether_legacy:phoenix_arrow ~ ~ ~ {NoAI:1}
+
+/summon aether_legacy:phyg ~ ~ ~ {NoAI:1}
+
+/summon aether_legacy:poison_dart ~ ~ ~ {NoAI:1}
+
+/summon aether_legacy:poison_needle ~ ~ ~ {NoAI:1}
+
+/summon aether_legacy:sentry ~ ~ ~ {NoAI:1}
+
+/summon aether_legacy:sheepuff ~ ~ ~ {NoAI:1}
+
+/summon aether_legacy:slider ~ ~ ~ {NoAI:1}
+
+/summon aether_legacy:sun_spirit ~ ~ ~ {NoAI:1}
+
+/summon aether_legacy:swet ~ ~ ~ {NoAI:1}
+
+/summon aether_legacy:thunder_ball ~ ~ ~ {NoAI:1}
+
+/summon aether_legacy:tnt_present ~ ~ ~ {NoAI:1}
+
+/summon aether_legacy:valkyrie ~ ~ ~ {NoAI:1}
+
+/summon aether_legacy:valkyrie_queen ~ ~ ~ {NoAI:1}
+
+/summon aether_legacy:whirlwind ~ ~ ~ {NoAI:1}
+
+/summon aether_legacy:zephyr ~ ~ ~ {NoAI:1}
+
+/summon aether_legacy:zephyr_snowball ~ ~ ~ {NoAI:1}
