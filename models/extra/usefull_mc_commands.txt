@@ -1,3 +1,5 @@
+first write /summon  then press TAB multiple times to scroll between possible mobs to summon
+
 /time set day
 
 /weather clear
@@ -10,10 +12,20 @@
 
 /summon aether_legacy:aechor_plant
 
+/summon aether_legacy:aechor_plant ~ ~ ~ {NoAI:1}
+
 /summon aether_legacy:aerbunny
+
+/summon aether_legacy:aerbunny ~ ~ ~ {NoAI:1}
 
 /summon aether_legacy:aerwhale
 
+/summon aether_legacy:aerwhale ~ ~ ~ {NoAI:1}
+
 /summon aether_legacy:cockatrice
 
+/summon aether_legacy:cockatrice ~ ~ ~ {NoAI:1}
+
 /summon aether_legacy:enchanted_dart
+
+/summon aether_legacy:enchanted_dart ~ ~ ~ {NoAI:1}
