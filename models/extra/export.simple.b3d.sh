@@ -11,7 +11,10 @@
 
 
 echo "focusing on Blender and clicing somewhere close to the middle of blender"
-xdotool mousemove 246 119 click 2
+
+sleep 2
+
+xdotool mousemove 246 119 click 1
 
 
 
