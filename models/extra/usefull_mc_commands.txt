@@ -1,5 +1,7 @@
 first write /summon  then press TAB multiple times to scroll between possible mobs to summon
 
+to get to aether make a portal with glowstone then right click on it with water bucket
+
 /time set day
 
 /weather clear
