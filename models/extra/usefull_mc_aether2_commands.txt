@@ -1,0 +1,86 @@
+first write /summon  then press TAB multiple times to scroll between possible mobs to summon
+
+to get to aether make a portal with glowstone then right click on it with water bucket
+
+/time set day
+
+/weather clear
+
+/setblock ~ ~ ~ end_portal
+
+/setblock ~ ~ ~ aether_portal
+
+/summon space and TAB button to scroll through mob options
+
+/freeze
+
+Stops mobs in their tracks.
+
+http://www.9minecraft.net/more-commands-mod/
+/noclip enabled
+
+/summon aether:aechor_plant ~ ~ ~ {NoAI:1}
+
+/summon aether:aerbunny ~ ~ ~ {NoAI:1}
+
+/summon aether:aerwhale ~ ~ ~ {NoAI:1}
+
+/summon aether:bolt ~ ~ ~ {NoAI:1}
+
+/summon aether:burrukai ~ ~ ~ {NoAI:1}
+
+/summon aether:carrion_sprout ~ ~ ~ {NoAI:1}
+
+/summon aether:cockatrice ~ ~ ~ {NoAI:1}
+
+/summon aether:daggerfrost_snowball ~ ~ ~ {NoAI:1}
+
+/summon aether:dart ~ ~ ~ {NoAI:1}
+
+/summon aether:edison ~ ~ ~ {NoAI:1}
+
+/summon aether:ethereal_wisp ~ ~ ~ {NoAI:1}
+
+/summon aether:fangrin ~ ~ ~ {NoAI:1}
+
+/summon aether:fleeting_wisp ~ ~ ~ {NoAI:1}
+
+/summon aether:floating_block ~ ~ ~ {NoAI:1}
+
+/summon aether:frostpine_totem ~ ~ ~ {NoAI:1}
+
+/summon aether:glitterwing ~ ~ ~ {NoAI:1}
+
+/summon aether:josediya ~ ~ ~ {NoAI:1}
+
+/summon aether:kirrid ~ ~ ~ {NoAI:1}
+
+/summon aether:kraisith ~ ~ ~ {NoAI:1}
+
+/summon aether:moa ~ ~ ~ {NoAI:1}
+
+/summon aether:moving_block ~ ~ ~ {NoAI:1}
+
+/summon aether:necromancer ~ ~ ~ {NoAI:1}
+
+/summon aether:nex_spirit ~ ~ ~ {NoAI:1}
+
+/summon aether:parachute ~ ~ ~ {NoAI:1}
+
+/summon aether:pink_baby_swet ~ ~ ~ {NoAI:1}
+
+/summon aether:shade_of_arkenzus ~ ~ ~ {NoAI:1}
+
+/summon aether:soaring_wisp ~ ~ ~ {NoAI:1}
+
+/summon aether:swet ~ ~ ~ {NoAI:1}
+
+/summon aether:taegore ~ ~ ~ {NoAI:1}
+
+/summon aether:tempest ~ ~ ~ {NoAI:1}
+
+/summon aether:tivalier ~ ~ ~ {NoAI:1}
+
+/summon aether:tnt_present ~ ~ ~ {NoAI:1}
+
+/summon aether:zephyr ~ ~ ~ {NoAI:1}
